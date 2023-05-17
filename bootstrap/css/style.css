@@ -1,0 +1,60 @@
+.bg-primary {
+  background: #121321;
+}
+
+.text-primary {
+  color: #121321;
+}
+
+.border-primary {
+  border-color: #121321;
+}
+
+.bg-secondary {
+  background: #989969;
+}
+
+.text-secondary {
+  color: #989969;
+}
+
+.border-secondary {
+  border-color: #989969;
+}
+
+.bg-peru {
+  background: peru;
+}
+
+.text-peru {
+  color: peru;
+}
+
+.border-peru {
+  border-color: peru;
+}
+
+.bg-warning {
+  background: #acacac;
+}
+
+.text-warning {
+  color: #acacac;
+}
+
+.border-warning {
+  border-color: #acacac;
+}
+
+.font-size-extraSmall {
+  font-size: 0.75rem;
+}
+
+.font-size-small {
+  font-size: 1rem;
+}
+
+.font-size-large {
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=style.css.map */
